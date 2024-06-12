@@ -1,16 +1,68 @@
-## Hi there 👋
 
-<!--
-**DaveHaymes/DaveHaymes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there! 👋
 
-Here are some ideas to get you started:
+I'm David Haymes, a seasoned Full Stack Engineer with over a decade of experience in building and maintaining high-performance web applications. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm currently a Senior Full Stack Engineer at Henry Schein, where I lead the development and maintenance of numerous websites and applications, serving millions of users globally. My expertise spans across various technologies including Laravel, PHP, MySQL, NoSQL, LAMP and MEAN stacks, Node.js, ReactJS, AngularJS, TypeScript, and serverless architectures with AWS.
+
+I have a proven track record of managing and mentoring teams, fostering an AGILE workflow, and implementing robust security measures. My role involves collaborating with cross-functional teams to enhance user experience and engagement significantly.
+
+---
+
+## 🛠 Skills and Technologies
+
+### Languages and Technologies
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-%23000000.svg?style=flat&logo=api&logoColor=white)
+
+---
+
+## 🌟 Experience Highlights
+
+### Senior Full Stack Engineer @ Henry Schein (2013 - Present)
+- Led the development of over 50 websites and applications.
+- Enhanced user engagement through significant UX improvements.
+- Implemented advanced security measures and optimized codebase.
+
+### Senior Full Stack Engineer/Project Manager @ eSource LLC (2008 - Present)
+- Managed multiple high-stakes projects for Fortune 500 companies and the US Government.
+- Utilized AWS to enhance client infrastructures.
+- Maintained high coding standards and led UI feature releases.
+
+### Freelance Full Stack Engineer (2007 - Present)
+- Developed custom web scrapers and REST APIs.
+- Engineered Node.js applications to improve client operations.
+- Conducted workshops and authored detailed documentation for clients.
+
+---
+
+## 🎓 Education
+
+**Weber State University**  
+*Bachelor of Science in Computer Science*  
+- Participated in multiple programming competitions.
+- Team Hack-a-thon runner-up.
+- Bug bounty contributor.
+
+---
+
+## 📫 How to Reach Me
+
+- **Email:** [davidhaymes@proton.me](mailto:davidhaymes@proton.me)
+- **LinkedIn:** [linkedin.com/in/david-haymes](https://www.linkedin.com/in/david-haymes/)
+- **GitHub:** [github.com/DaveHaymes](https://github.com/DaveHaymes)
