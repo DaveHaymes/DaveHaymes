@@ -15,9 +15,6 @@ I have a proven track record of managing and mentoring teams, fostering an AGILE
 
 ### Languages and Technologies
 
-### Languages and Technologies
-
-#### Programming Languages
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
@@ -25,7 +22,6 @@ I have a proven track record of managing and mentoring teams, fostering an AGILE
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-#### Frameworks and Libraries
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
@@ -34,18 +30,15 @@ I have a proven track record of managing and mentoring teams, fostering an AGILE
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat&logo=graphql&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat&logo=redux&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=flat&logo=sass&logoColor=white)
 ![Less](https://img.shields.io/badge/Less-%231D365D.svg?style=flat&logo=less&logoColor=white)
 
-#### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white)
 
-#### DevOps and Tools
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
@@ -56,11 +49,9 @@ I have a proven track record of managing and mentoring teams, fostering an AGILE
 ![Jira](https://img.shields.io/badge/Jira-%230A74DA.svg?style=flat&logo=jira&logoColor=white)
 ![Atlassian](https://img.shields.io/badge/Atlassian-%230052CC.svg?style=flat&logo=atlassian&logoColor=white)
 
-#### Documentation
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=flat&logo=swagger&logoColor=black)
 
-#### Other
 ![APIs](https://img.shields.io/badge/APIs-%23000000.svg?style=flat&logo=api&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-%23000000.svg?style=flat&logo=oauth&logoColor=white)
 
