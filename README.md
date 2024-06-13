@@ -1,5 +1,5 @@
 
-### Hello there! 👋
+## Hello there! 👋
 
 I'm David Haymes, a passionate and experienced Full Stack Engineer with over a decade of expertise in creating and maintaining high-performance web applications. Whether you're here to explore my projects, collaborate, or just learn more about my work, welcome to my GitHub profile!
 
@@ -95,6 +95,32 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 - Participated in multiple programming competitions.
 - Team Hack-a-thon runner-up.
 - Bug bounty contributor.
+
+---
+
+### Licenses and Certifications
+
+- **AWS and React: Creating Full-Stack Apps** - LinkedIn, Issued Oct 2022
+  - Skills: Amazon Web Services (AWS)
+  - [Show credential](https://www.linkedin.com/learning/certificates/4e9e04f6223e4c9f2b7cdb20215b77b6b0737a07d5ba7635780bd2ed70306497?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bqh9a9dKsSZq14L%2FIk0QEOA%3D%3D)
+  
+- **Advanced Laravel** - LinkedIn, Issued Sep 2022
+  - Skills: Laravel, PHP
+  - [Show credential](https://www.linkedin.com/learning/certificates/07e5052a6a81099ad37014b5d8cda4b0f5f3954812b40b7a4d6deb96ce965bdd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bqh9a9dKsSZq14L%2FIk0QEOA%3D%3D)
+  
+- **Functional Programming with PHP** - LinkedIn, Issued Sep 2022
+  - Skills: PHP
+  - [Show credential](https://www.linkedin.com/learning/certificates/944f1e0f7c191859865ac5f53d764120b37f6184672b74b106193daa56739356?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bqh9a9dKsSZq14L%2FIk0QEOA%3D%3D)
+  
+- **Learning Amazon Web Services (AWS) for Developers (2020)** - LinkedIn, Issued Sep 2022
+  - Skills: Amazon Web Services (AWS)
+  - [Show credential](https://www.linkedin.com/learning/certificates/1d7048ea9d87742e4641de9647f4207147d7e3c38ebab935290c6af6fa4bd692?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bqh9a9dKsSZq14L%2FIk0QEOA%3D%3D)
+  
+- **Docker by LinkedIn Learning** - LinkedIn, Issued Mar 2020
+  - Credential ID: aff2369619bcc5825a63e7d0b378d961bd7dae79a299876b9d6d0bef84e4fd50
+  - [Show credential](https://www.linkedin.com/learning/certificates/aff2369619bcc5825a63e7d0b378d961bd7dae79a299876b9d6d0bef84e4fd50?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bqh9a9dKsSZq14L%2FIk0QEOA%3D%3D)
+  
+- **Eloqua Certification** - Oracle, Issued Nov 2014
 
 ---
 
