@@ -1,5 +1,5 @@
 
-## Hello there! 👋
+## 👋 Hello there!
 
 I'm David Haymes, a passionate and experienced Full Stack Engineer with over a decade of expertise in creating and maintaining high-performance web applications. Whether you're here to explore my projects, collaborate, or just learn more about my work, welcome to my GitHub profile!
 
