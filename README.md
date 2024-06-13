@@ -15,7 +15,6 @@ I have a proven track record of managing and mentoring teams, fostering an AGILE
 
 ### Languages and Technologies
 
-
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
@@ -24,7 +23,6 @@ I have a proven track record of managing and mentoring teams, fostering an AGILE
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white)
-
 
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white)
@@ -36,20 +34,20 @@ I have a proven track record of managing and mentoring teams, fostering an AGILE
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 
-
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
 ![Wiz.io](https://img.shields.io/badge/Wiz.io-%230072C6.svg?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAZ0lEQVR42mNgGAWDEv6ngEDfgWg0EEcFUbwH4HxDCJsgArA9GWESD/EgFqIw6Aw0IYQKwTxJgXQPiPoGQ/jfwFpJcRkA6Q8i/IZLwGEEihCg9xAnYz8B1ih9mUeAoRQvg9nAaBEHj6jAeArH6jszIKADlKBnBXEViwAAAAASUVORK5CYII=)
 
-
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=flat&logo=swagger&logoColor=black)
 
-
 ![APIs](https://img.shields.io/badge/APIs-%23000000.svg?style=flat&logo=api&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-%23000000.svg?style=flat&logo=oauth&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A74DA.svg?style=flat&logo=jira&logoColor=white)
+![Atlassian](https://img.shields.io/badge/Atlassian-%230052CC.svg?style=flat&logo=atlassian&logoColor=white)
+
 
 
 ---
