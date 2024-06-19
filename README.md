@@ -102,29 +102,171 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 
 ---
 
-### Licenses and Certifications - Over 25 Certifications
+## 🏅 Certifications & Licenses
 
-- **AWS and React: Creating Full-Stack Apps** - LinkedIn, Issued Oct 2022
-  - Skills: Amazon Web Services (AWS)
-  - [Show credential](https://www.linkedin.com/learning/certificates/4e9e04f6223e4c9f2b7cdb20215b77b6b0737a07d5ba7635780bd2ed70306497?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bqh9a9dKsSZq14L%2FIk0QEOA%3D%3D)
-  
-- **Advanced Laravel** - LinkedIn, Issued Sep 2022
-  - Skills: Laravel, PHP
-  - [Show credential](https://www.linkedin.com/learning/certificates/07e5052a6a81099ad37014b5d8cda4b0f5f3954812b40b7a4d6deb96ce965bdd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bqh9a9dKsSZq14L%2FIk0QEOA%3D%3D)
-  
-- **Functional Programming with PHP** - LinkedIn, Issued Sep 2022
-  - Skills: PHP
-  - [Show credential](https://www.linkedin.com/learning/certificates/944f1e0f7c191859865ac5f53d764120b37f6184672b74b106193daa56739356?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bqh9a9dKsSZq14L%2FIk0QEOA%3D%3D)
-  
-- **Learning Amazon Web Services (AWS) for Developers (2020)** - LinkedIn, Issued Sep 2022
-  - Skills: Amazon Web Services (AWS)
-  - [Show credential](https://www.linkedin.com/learning/certificates/1d7048ea9d87742e4641de9647f4207147d7e3c38ebab935290c6af6fa4bd692?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bqh9a9dKsSZq14L%2FIk0QEOA%3D%3D)
-  
-- **Docker by LinkedIn Learning** - LinkedIn, Issued Mar 2020
-  - Credential ID: aff2369619bcc5825a63e7d0b378d961bd7dae79a299876b9d6d0bef84e4fd50
-  - [Show credential](https://www.linkedin.com/learning/certificates/aff2369619bcc5825a63e7d0b378d961bd7dae79a299876b9d6d0bef84e4fd50?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bqh9a9dKsSZq14L%2FIk0QEOA%3D%3D)
-  
-- **Eloqua Certification** - Oracle, Issued Nov 2014
+<details>
+  <summary>### Data Analysis and AI</summary>
+
+  - **Career Essentials in Data Analysis by Microsoft and LinkedIn**  
+    *Microsoft, Issued June 2024*  
+    **Skills:** Data Analysis, Data Analytics, Data Visualization  
+    [Show Credential](#)
+
+  - **Career Essentials in Generative AI by Microsoft and LinkedIn**  
+    *Microsoft, Issued June 2024*  
+    **Skills:** Computer Ethics, Generative AI, Artificial Intelligence (AI)  
+    [Show Credential](#)
+</details>
+
+<details>
+  <summary>### Docker</summary>
+
+  - **Docker Foundations Professional Certificate**  
+    *Docker, Inc, Issued June 2024*  
+    **Skills:** Containerization  
+    [Show Credential](#)
+
+  - **Docker: Your First Project**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Docker Products  
+    [Show Credential](#)
+
+  - **Learning Docker**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Docker Products  
+    [Show Credential](#)
+
+  - **Learning Docker Compose**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Docker Products  
+    [Show Credential](#)
+
+  - **Docker by LinkedIn Learning**  
+    *LinkedIn, Issued March 2020*  
+    [Show Credential](#)
+</details>
+
+<details>
+  <summary>### AI Ethics and Technology</summary>
+
+  - **Ethics in the Age of Generative AI**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Computer Ethics, Responsible AI  
+    [Show Credential](#)
+
+  - **Generative AI: The Evolution of Thoughtful Online Search**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Artificial Intelligence for Business, Search Engine Technology  
+    [Show Credential](#)
+
+  - **What Is Generative AI?**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Generative AI, Artificial Intelligence (AI), Generative AI Tools  
+    [Show Credential](#)
+</details>
+
+<details>
+  <summary>### Artificial Intelligence</summary>
+
+  - **Introduction to Artificial Intelligence**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Artificial Intelligence for Business, Artificial Intelligence (AI)  
+    [Show Credential](#)
+</details>
+
+<details>
+  <summary>### Data Analytics</summary>
+
+  - **Introduction to Career Skills in Data Analytics**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Data Analytics, Tech Career Skills  
+    [Show Credential](#)
+
+  - **Learning Data Analytics Part 2: Extending and Applying Core Knowledge**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Data Analytics  
+    [Show Credential](#)
+
+  - **Learning Data Analytics: 1 Foundations**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Data Analytics  
+    [Show Credential](#)
+</details>
+
+<details>
+  <summary>### Programming and Development</summary>
+
+  - **JavaScript Essential Training**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** JavaScript  
+    [Show Credential](#)
+
+  - **JavaScript Foundations Professional Certificate by Mozilla**  
+    *Mozilla, Issued June 2024*  
+    **Skills:** Web Development, JavaScript  
+    [Show Credential](#)
+
+  - **Learning the JavaScript Language**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** JavaScript  
+    [Show Credential](#)
+
+  - **Learning Git and GitHub**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** GitHub  
+    [Show Credential](#)
+
+  - **AWS and React: Creating Full-Stack Apps**  
+    *LinkedIn, Issued October 2022*  
+    **Skills:** Amazon Web Services (AWS)  
+    [Show Credential](#)
+</details>
+
+<details>
+  <summary>### Productivity Tools</summary>
+
+  - **Streamlining Your Work with Microsoft Copilot**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Productivity Improvement, Microsoft Copilot  
+    [Show Credential](#)
+
+  - **Learning Microsoft 365 Copilot**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Microsoft Copilot, Artificial Intelligence for Business, Microsoft 365  
+    [Show Credential](#)
+</details>
+
+<details>
+  <summary>### PHP Development</summary>
+
+  - **Advanced Laravel**  
+    *LinkedIn, Issued September 2022*  
+    **Skills:** Laravel, PHP  
+    [Show Credential](#)
+
+  - **Functional Programming with PHP**  
+    *LinkedIn, Issued September 2022*  
+    **Skills:** PHP  
+    [Show Credential](#)
+</details>
+
+<details>
+  <summary>### AWS</summary>
+
+  - **Learning Amazon Web Services (AWS) for Developers (2020)**  
+    *LinkedIn, Issued September 2022*  
+    **Skills:** Amazon Web Services (AWS)  
+    [Show Credential](#)
+</details>
+
+<details>
+  <summary>### Marketing</summary>
+
+  - **Eloqua Certification**  
+    *Oracle, Issued November 2014*  
+    [Show Credential](#)
+</details>
+
 
 ---
 
