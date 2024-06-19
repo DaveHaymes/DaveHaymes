@@ -102,7 +102,7 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 
 ---
 
-### Licenses and Certifications
+### Licenses and Certifications - Over 25 Certifications
 
 - **AWS and React: Creating Full-Stack Apps** - LinkedIn, Issued Oct 2022
   - Skills: Amazon Web Services (AWS)
