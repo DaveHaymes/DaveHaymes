@@ -120,28 +120,32 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 
 <details>
   <summary>Docker</summary>
-
-  - ![Docker Badge](https://img.shields.io/badge/Docker-Foundations-blue) **Docker Foundations Professional Certificate**  
+  ![Docker Badge](https://img.shields.io/badge/Docker-Foundations-blue)
+  - **Docker Foundations Professional Certificate**  
     *Docker, Inc, Issued June 2024*  
     **Skills:** Containerization  
     [Show Credential](#)
 
-  - ![Docker Badge](https://img.shields.io/badge/Docker-First%20Project-blue) **Docker: Your First Project**  
+  ![Docker Badge](https://img.shields.io/badge/Docker-First%20Project-blue)
+  - **Docker: Your First Project**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Docker Products  
     [Show Credential](#)
 
-  - ![Docker Badge](https://img.shields.io/badge/Docker-Learning-blue) **Learning Docker**  
+  ![Docker Badge](https://img.shields.io/badge/Docker-Learning-blue)
+  - **Learning Docker**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Docker Products  
     [Show Credential](#)
 
-  - ![Docker Badge](https://img.shields.io/badge/Docker-Compose-blue) **Learning Docker Compose**  
+  ![Docker Badge](https://img.shields.io/badge/Docker-Compose-blue)
+  - **Learning Docker Compose**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Docker Products  
     [Show Credential](#)
 
-  - ![Docker Badge](https://img.shields.io/badge/Docker-LinkedIn%20Learning-blue) **Docker by LinkedIn Learning**  
+  ![Docker Badge](https://img.shields.io/badge/Docker-LinkedIn%20Learning-blue)
+  - **Docker by LinkedIn Learning**  
     *LinkedIn, Issued March 2020*  
     [Show Credential](#)
 </details>
