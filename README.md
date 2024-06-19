@@ -105,167 +105,168 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 ## 🏅 Certifications & Licenses
 
 <details>
-  <summary>### Data Analysis and AI</summary>
+  <summary>Data Analysis and AI</summary>
 
-  - **Career Essentials in Data Analysis by Microsoft and LinkedIn**  
+  - ![Microsoft Badge](https://img.shields.io/badge/Microsoft-Data%20Analysis-blue) **Career Essentials in Data Analysis by Microsoft and LinkedIn**  
     *Microsoft, Issued June 2024*  
     **Skills:** Data Analysis, Data Analytics, Data Visualization  
     [Show Credential](#)
 
-  - **Career Essentials in Generative AI by Microsoft and LinkedIn**  
+  - ![Microsoft Badge](https://img.shields.io/badge/Microsoft-Generative%20AI-blue) **Career Essentials in Generative AI by Microsoft and LinkedIn**  
     *Microsoft, Issued June 2024*  
     **Skills:** Computer Ethics, Generative AI, Artificial Intelligence (AI)  
     [Show Credential](#)
 </details>
 
 <details>
-  <summary>### Docker</summary>
+  <summary>Docker</summary>
 
-  - **Docker Foundations Professional Certificate**  
+  - ![Docker Badge](https://img.shields.io/badge/Docker-Foundations-blue) **Docker Foundations Professional Certificate**  
     *Docker, Inc, Issued June 2024*  
     **Skills:** Containerization  
     [Show Credential](#)
 
-  - **Docker: Your First Project**  
+  - ![Docker Badge](https://img.shields.io/badge/Docker-First%20Project-blue) **Docker: Your First Project**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Docker Products  
     [Show Credential](#)
 
-  - **Learning Docker**  
+  - ![Docker Badge](https://img.shields.io/badge/Docker-Learning-blue) **Learning Docker**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Docker Products  
     [Show Credential](#)
 
-  - **Learning Docker Compose**  
+  - ![Docker Badge](https://img.shields.io/badge/Docker-Compose-blue) **Learning Docker Compose**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Docker Products  
     [Show Credential](#)
 
-  - **Docker by LinkedIn Learning**  
+  - ![Docker Badge](https://img.shields.io/badge/Docker-LinkedIn%20Learning-blue) **Docker by LinkedIn Learning**  
     *LinkedIn, Issued March 2020*  
     [Show Credential](#)
 </details>
 
 <details>
-  <summary>### AI Ethics and Technology</summary>
+  <summary>AI Ethics and Technology</summary>
 
-  - **Ethics in the Age of Generative AI**  
+  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-AI%20Ethics-blue) **Ethics in the Age of Generative AI**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Computer Ethics, Responsible AI  
     [Show Credential](#)
 
-  - **Generative AI: The Evolution of Thoughtful Online Search**  
+  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Generative%20AI-blue) **Generative AI: The Evolution of Thoughtful Online Search**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Artificial Intelligence for Business, Search Engine Technology  
     [Show Credential](#)
 
-  - **What Is Generative AI?**  
+  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Generative%20AI-blue) **What Is Generative AI?**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Generative AI, Artificial Intelligence (AI), Generative AI Tools  
     [Show Credential](#)
 </details>
 
 <details>
-  <summary>### Artificial Intelligence</summary>
+  <summary>Artificial Intelligence</summary>
 
-  - **Introduction to Artificial Intelligence**  
+  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-AI-blue) **Introduction to Artificial Intelligence**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Artificial Intelligence for Business, Artificial Intelligence (AI)  
     [Show Credential](#)
 </details>
 
 <details>
-  <summary>### Data Analytics</summary>
+  <summary>Data Analytics</summary>
 
-  - **Introduction to Career Skills in Data Analytics**  
+  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Data%20Analytics-blue) **Introduction to Career Skills in Data Analytics**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Data Analytics, Tech Career Skills  
     [Show Credential](#)
 
-  - **Learning Data Analytics Part 2: Extending and Applying Core Knowledge**  
+  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Data%20Analytics-blue) **Learning Data Analytics Part 2: Extending and Applying Core Knowledge**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Data Analytics  
     [Show Credential](#)
 
-  - **Learning Data Analytics: 1 Foundations**  
+  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Data%20Analytics-blue) **Learning Data Analytics: 1 Foundations**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Data Analytics  
     [Show Credential](#)
 </details>
 
 <details>
-  <summary>### Programming and Development</summary>
+  <summary>Programming and Development</summary>
 
-  - **JavaScript Essential Training**  
+  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-JavaScript-blue) **JavaScript Essential Training**  
     *LinkedIn, Issued June 2024*  
     **Skills:** JavaScript  
     [Show Credential](#)
 
-  - **JavaScript Foundations Professional Certificate by Mozilla**  
+  - ![Mozilla Badge](https://img.shields.io/badge/Mozilla-JavaScript-blue) **JavaScript Foundations Professional Certificate by Mozilla**  
     *Mozilla, Issued June 2024*  
     **Skills:** Web Development, JavaScript  
     [Show Credential](#)
 
-  - **Learning the JavaScript Language**  
+  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-JavaScript-blue) **Learning the JavaScript Language**  
     *LinkedIn, Issued June 2024*  
     **Skills:** JavaScript  
     [Show Credential](#)
 
-  - **Learning Git and GitHub**  
+  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-GitHub-blue) **Learning Git and GitHub**  
     *LinkedIn, Issued June 2024*  
     **Skills:** GitHub  
     [Show Credential](#)
 
-  - **AWS and React: Creating Full-Stack Apps**  
+  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-AWS-blue) **AWS and React: Creating Full-Stack Apps**  
     *LinkedIn, Issued October 2022*  
     **Skills:** Amazon Web Services (AWS)  
     [Show Credential](#)
 </details>
 
 <details>
-  <summary>### Productivity Tools</summary>
+  <summary>Productivity Tools</summary>
 
-  - **Streamlining Your Work with Microsoft Copilot**  
+  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Copilot-blue) **Streamlining Your Work with Microsoft Copilot**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Productivity Improvement, Microsoft Copilot  
     [Show Credential](#)
 
-  - **Learning Microsoft 365 Copilot**  
+  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Copilot-blue) **Learning Microsoft 365 Copilot**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Microsoft Copilot, Artificial Intelligence for Business, Microsoft 365  
     [Show Credential](#)
 </details>
 
 <details>
-  <summary>### PHP Development</summary>
+  <summary>PHP Development</summary>
 
-  - **Advanced Laravel**  
+  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-PHP-blue) **Advanced Laravel**  
     *LinkedIn, Issued September 2022*  
     **Skills:** Laravel, PHP  
     [Show Credential](#)
 
-  - **Functional Programming with PHP**  
+  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-PHP-blue) **Functional Programming with PHP**  
     *LinkedIn, Issued September 2022*  
     **Skills:** PHP  
     [Show Credential](#)
 </details>
 
 <details>
-  <summary>### AWS</summary>
+  <summary>AWS</summary>
 
-  - **Learning Amazon Web Services (AWS) for Developers (2020)**  
+  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-AWS-blue) **Learning Amazon Web Services (AWS) for Developers (2020)**  
     *LinkedIn, Issued September 2022*  
     **Skills:** Amazon Web Services (AWS)  
     [Show Credential](#)
 </details>
 
 <details>
-  <summary>### Marketing</summary>
+  <summary>Marketing</summary>
 
-  - **Eloqua Certification**  
+  - ![Oracle Badge](https://img.shields.io/badge/Oracle-Eloqua-blue) **Eloqua Certification**  
     *Oracle, Issued November 2014*  
     [Show Credential](#)
 </details>
+
 
 
 ---
