@@ -66,29 +66,39 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 
 ## 🌟 Experience Highlights
 
-### Senior Full Stack Engineer @ Henry Schein (2013 - Present)
-- Led the development of over 50 websites and applications, significantly increasing online traffic and user retention.
-- Enhanced user engagement through significant UX improvements, collaborating closely with design and UX teams.
-- Implemented advanced security measures and optimized codebase to protect against cyber threats and improve performance.
-- Managed a team of developers, providing mentorship and fostering an AGILE development environment.
-- Spearheaded the integration of serverless architecture, reducing server costs and improving scalability.
-- Coordinated cross-functional teams to deliver projects on time and within budget, ensuring alignment with business goals.
+<details>
+  <summary>Senior Full Stack Engineer @ Henry Schein (2013 - Present)</summary>
 
-### Senior Full Stack Engineer/Project Manager @ eSource LLC (2008 - Present)
-- Managed multiple high-stakes projects for Fortune 500 companies and the US Government, ensuring successful delivery and client satisfaction.
-- Utilized AWS to enhance client infrastructures, leading to improved reliability and performance.
-- Maintained high coding standards and led UI feature releases, ensuring a seamless user experience.
-- Developed and maintained CI/CD pipelines for automated deployments, increasing development efficiency.
-- Conducted regular code reviews, fostering a culture of continuous improvement and knowledge sharing.
-- Provided technical leadership and project management, ensuring projects were completed on time and met client requirements.
+  - Led the development of over 50 websites and applications, significantly increasing online traffic and user retention.
+  - Enhanced user engagement through significant UX improvements, collaborating closely with design and UX teams.
+  - Implemented advanced security measures and optimized codebase to protect against cyber threats and improve performance.
+  - Managed a team of developers, providing mentorship and fostering an AGILE development environment.
+  - Spearheaded the integration of serverless architecture, reducing server costs and improving scalability.
+  - Coordinated cross-functional teams to deliver projects on time and within budget, ensuring alignment with business goals.
+</details>
 
-### Freelance Full Stack Engineer (2007 - Present)
-- Developed custom web scrapers and REST APIs, automating data collection and enhancing client data analysis capabilities.
-- Engineered Node.js applications to improve client operations, resulting in increased efficiency and reduced operational costs.
-- Conducted workshops and authored detailed documentation for clients, enhancing their technical proficiency and project engagement.
-- Designed and implemented comprehensive CMS solutions, including WordPress site development, to bolster client independence.
-- Led the development of e-commerce platforms, integrating payment gateways and ensuring secure transactions.
-- Provided ongoing support and maintenance for client projects, ensuring long-term success and client satisfaction.
+<details>
+  <summary>Senior Full Stack Engineer/Project Manager @ eSource LLC (2008 - Present)</summary>
+
+  - Managed multiple high-stakes projects for Fortune 500 companies and the US Government, ensuring successful delivery and client satisfaction.
+  - Utilized AWS to enhance client infrastructures, leading to improved reliability and performance.
+  - Maintained high coding standards and led UI feature releases, ensuring a seamless user experience.
+  - Developed and maintained CI/CD pipelines for automated deployments, increasing development efficiency.
+  - Conducted regular code reviews, fostering a culture of continuous improvement and knowledge sharing.
+  - Provided technical leadership and project management, ensuring projects were completed on time and met client requirements.
+</details>
+
+<details>
+  <summary>Freelance Full Stack Engineer (2007 - Present)</summary>
+
+  - Developed custom web scrapers and REST APIs, automating data collection and enhancing client data analysis capabilities.
+  - Engineered Node.js applications to improve client operations, resulting in increased efficiency and reduced operational costs.
+  - Conducted workshops and authored detailed documentation for clients, enhancing their technical proficiency and project engagement.
+  - Designed and implemented comprehensive CMS solutions, including WordPress site development, to bolster client independence.
+  - Led the development of e-commerce platforms, integrating payment gateways and ensuring secure transactions.
+  - Provided ongoing support and maintenance for client projects, ensuring long-term success and client satisfaction.
+</details>
+
 
 
 ---
