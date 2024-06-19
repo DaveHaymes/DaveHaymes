@@ -107,6 +107,170 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 <details>
   <summary>Data Analysis and AI</summary>
 
+  - **Career Essentials in Data Analysis by Microsoft and LinkedIn**  
+    *Microsoft, Issued June 2024*  
+    **Skills:** Data Analysis, Data Analytics, Data Visualization  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+
+  - **Career Essentials in Generative AI by Microsoft and LinkedIn**  
+    *Microsoft, Issued June 2024*  
+    **Skills:** Computer Ethics, Generative AI, Artificial Intelligence (AI)  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+</details>
+
+<details>
+  <summary>Docker</summary>
+
+  - **Docker Foundations Professional Certificate**  
+    *Docker, Inc, Issued June 2024*  
+    **Skills:** Containerization  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+
+  - **Docker: Your First Project**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Docker Products  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+
+  - **Learning Docker**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Docker Products  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+
+  - **Learning Docker Compose**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Docker Products  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+
+  - **Docker by LinkedIn Learning**  
+    *LinkedIn, Issued March 2020*  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+</details>
+
+<details>
+  <summary>AI Ethics and Technology</summary>
+
+  - **Ethics in the Age of Generative AI**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Computer Ethics, Responsible AI  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+
+  - **Generative AI: The Evolution of Thoughtful Online Search**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Artificial Intelligence for Business, Search Engine Technology  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+
+  - **What Is Generative AI?**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Generative AI, Artificial Intelligence (AI), Generative AI Tools  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+</details>
+
+<details>
+  <summary>Artificial Intelligence</summary>
+
+  - **Introduction to Artificial Intelligence**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Artificial Intelligence for Business, Artificial Intelligence (AI)  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+</details>
+
+<details>
+  <summary>Data Analytics</summary>
+
+  - **Introduction to Career Skills in Data Analytics**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Data Analytics, Tech Career Skills  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+
+  - **Learning Data Analytics Part 2: Extending and Applying Core Knowledge**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Data Analytics  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+
+  - **Learning Data Analytics: 1 Foundations**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Data Analytics  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+</details>
+
+<details>
+  <summary>Programming and Development</summary>
+
+  - **JavaScript Essential Training**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** JavaScript  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+
+  - **JavaScript Foundations Professional Certificate by Mozilla**  
+    *Mozilla, Issued June 2024*  
+    **Skills:** Web Development, JavaScript  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+
+  - **Learning the JavaScript Language**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** JavaScript  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+
+  - **Learning Git and GitHub**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** GitHub  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+
+  - **AWS and React: Creating Full-Stack Apps**  
+    *LinkedIn, Issued October 2022*  
+    **Skills:** Amazon Web Services (AWS)  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+</details>
+
+<details>
+  <summary>Productivity Tools</summary>
+
+  - **Streamlining Your Work with Microsoft Copilot**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Productivity Improvement, Microsoft Copilot  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+
+  - **Learning Microsoft 365 Copilot**  
+    *LinkedIn, Issued June 2024*  
+    **Skills:** Microsoft Copilot, Artificial Intelligence for Business, Microsoft 365  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+</details>
+
+<details>
+  <summary>PHP Development</summary>
+
+  - **Advanced Laravel**  
+    *LinkedIn, Issued September 2022*  
+    **Skills:** Laravel, PHP  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+
+  - **Functional Programming with PHP**  
+    *LinkedIn, Issued September 2022*  
+    **Skills:** PHP  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+</details>
+
+<details>
+  <summary>AWS</summary>
+
+  - **Learning Amazon Web Services (AWS) for Developers (2020)**  
+    *LinkedIn, Issued September 2022*  
+    **Skills:** Amazon Web Services (AWS)  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+</details>
+
+<details>
+  <summary>Marketing</summary>
+
+  - **Eloqua Certification**  
+    *Oracle, Issued November 2014*  
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
+</details>
+
+
+<details>
+  <summary>Data Analysis and AI</summary>
+
   - ![Microsoft Badge](https://img.shields.io/badge/Microsoft-Data%20Analysis-blue) **Career Essentials in Data Analysis by Microsoft and LinkedIn**  
     *Microsoft, Issued June 2024*  
     **Skills:** Data Analysis, Data Analytics, Data Visualization  
