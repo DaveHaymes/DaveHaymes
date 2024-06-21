@@ -282,11 +282,11 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 
   - **Microsoft, Issued June 2024**
     **Skills:** Data Analysis, Data Analytics, Data Visualization  
-    [Show Credential](#)
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
 
-    *Microsoft, Issued June 2024*  
+  - **Microsoft, Issued June 2024** 
     **Skills:** Computer Ethics, Generative AI, Artificial Intelligence (AI)  
-    [Show Credential](#)
+    [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
 </details>
 
 <details>
