@@ -281,12 +281,10 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 <details>
   <summary>Data Analysis and AI</summary>
 
-  - ![Microsoft Badge](https://img.shields.io/badge/Microsoft-Data%20Analysis-blue) **Career Essentials in Data Analysis by Microsoft and LinkedIn**  
     *Microsoft, Issued June 2024*  
     **Skills:** Data Analysis, Data Analytics, Data Visualization  
     [Show Credential](#)
 
-  - ![Microsoft Badge](https://img.shields.io/badge/Microsoft-Generative%20AI-blue) **Career Essentials in Generative AI by Microsoft and LinkedIn**  
     *Microsoft, Issued June 2024*  
     **Skills:** Computer Ethics, Generative AI, Artificial Intelligence (AI)  
     [Show Credential](#)
@@ -300,25 +298,21 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
     **Skills:** Containerization  
     [Show Credential](#)
 
-  ![Docker Badge](https://img.shields.io/badge/Docker-First%20Project-blue)
   - **Docker: Your First Project**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Docker Products  
     [Show Credential](#)
 
-  ![Docker Badge](https://img.shields.io/badge/Docker-Learning-blue)
   - **Learning Docker**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Docker Products  
     [Show Credential](#)
 
-  ![Docker Badge](https://img.shields.io/badge/Docker-Compose-blue)
   - **Learning Docker Compose**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Docker Products  
     [Show Credential](#)
 
-  ![Docker Badge](https://img.shields.io/badge/Docker-LinkedIn%20Learning-blue)
   - **Docker by LinkedIn Learning**  
     *LinkedIn, Issued March 2020*  
     [Show Credential](#)
@@ -327,17 +321,14 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 <details>
   <summary>AI Ethics and Technology</summary>
 
-  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-AI%20Ethics-blue) **Ethics in the Age of Generative AI**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Computer Ethics, Responsible AI  
     [Show Credential](#)
 
-  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Generative%20AI-blue) **Generative AI: The Evolution of Thoughtful Online Search**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Artificial Intelligence for Business, Search Engine Technology  
     [Show Credential](#)
 
-  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Generative%20AI-blue) **What Is Generative AI?**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Generative AI, Artificial Intelligence (AI), Generative AI Tools  
     [Show Credential](#)
@@ -346,7 +337,6 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 <details>
   <summary>Artificial Intelligence</summary>
 
-  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-AI-blue) **Introduction to Artificial Intelligence**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Artificial Intelligence for Business, Artificial Intelligence (AI)  
     [Show Credential](#)
@@ -355,17 +345,14 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 <details>
   <summary>Data Analytics</summary>
 
-  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Data%20Analytics-blue) **Introduction to Career Skills in Data Analytics**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Data Analytics, Tech Career Skills  
     [Show Credential](#)
 
-  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Data%20Analytics-blue) **Learning Data Analytics Part 2: Extending and Applying Core Knowledge**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Data Analytics  
     [Show Credential](#)
 
-  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Data%20Analytics-blue) **Learning Data Analytics: 1 Foundations**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Data Analytics  
     [Show Credential](#)
@@ -374,27 +361,22 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 <details>
   <summary>Programming and Development</summary>
 
-  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-JavaScript-blue) **JavaScript Essential Training**  
     *LinkedIn, Issued June 2024*  
     **Skills:** JavaScript  
     [Show Credential](#)
 
-  - ![Mozilla Badge](https://img.shields.io/badge/Mozilla-JavaScript-blue) **JavaScript Foundations Professional Certificate by Mozilla**  
     *Mozilla, Issued June 2024*  
     **Skills:** Web Development, JavaScript  
     [Show Credential](#)
 
-  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-JavaScript-blue) **Learning the JavaScript Language**  
     *LinkedIn, Issued June 2024*  
     **Skills:** JavaScript  
     [Show Credential](#)
 
-  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-GitHub-blue) **Learning Git and GitHub**  
     *LinkedIn, Issued June 2024*  
     **Skills:** GitHub  
     [Show Credential](#)
 
-  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-AWS-blue) **AWS and React: Creating Full-Stack Apps**  
     *LinkedIn, Issued October 2022*  
     **Skills:** Amazon Web Services (AWS)  
     [Show Credential](#)
@@ -403,12 +385,10 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 <details>
   <summary>Productivity Tools</summary>
 
-  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Copilot-blue) **Streamlining Your Work with Microsoft Copilot**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Productivity Improvement, Microsoft Copilot  
     [Show Credential](#)
 
-  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Copilot-blue) **Learning Microsoft 365 Copilot**  
     *LinkedIn, Issued June 2024*  
     **Skills:** Microsoft Copilot, Artificial Intelligence for Business, Microsoft 365  
     [Show Credential](#)
@@ -417,12 +397,10 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 <details>
   <summary>PHP Development</summary>
 
-  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-PHP-blue) **Advanced Laravel**  
     *LinkedIn, Issued September 2022*  
     **Skills:** Laravel, PHP  
     [Show Credential](#)
 
-  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-PHP-blue) **Functional Programming with PHP**  
     *LinkedIn, Issued September 2022*  
     **Skills:** PHP  
     [Show Credential](#)
@@ -431,7 +409,6 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 <details>
   <summary>AWS</summary>
 
-  - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-AWS-blue) **Learning Amazon Web Services (AWS) for Developers (2020)**  
     *LinkedIn, Issued September 2022*  
     **Skills:** Amazon Web Services (AWS)  
     [Show Credential](#)
@@ -440,7 +417,6 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 <details>
   <summary>Marketing</summary>
 
-  - ![Oracle Badge](https://img.shields.io/badge/Oracle-Eloqua-blue) **Eloqua Certification**  
     *Oracle, Issued November 2014*  
     [Show Credential](#)
 </details>
