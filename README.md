@@ -67,6 +67,7 @@ I have a proven track record of managing and mentoring teams, fostering an AGILE
   <img src="https://img.shields.io/badge/OAuth-%23000000.svg?style=flat&logo=oauth&logoColor=white"/>
 </p>
 
+---
 
 ## 📂 GitHub vs CodeCommit vs GitLab
 
