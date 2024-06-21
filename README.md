@@ -277,11 +277,10 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
     [Show Credential](https://www.linkedin.com/in/david-haymes/details/certifications/)
 </details>
 
-
 <details>
   <summary>Data Analysis and AI</summary>
 
-    *Microsoft, Issued June 2024*  
+  - **Microsoft, Issued June 2024**
     **Skills:** Data Analysis, Data Analytics, Data Visualization  
     [Show Credential](#)
 
@@ -292,7 +291,6 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 
 <details>
   <summary>Docker</summary>
-  ![Docker Badge](https://img.shields.io/badge/Docker-Foundations-blue)
   - **Docker Foundations Professional Certificate**  
     *Docker, Inc, Issued June 2024*  
     **Skills:** Containerization  
