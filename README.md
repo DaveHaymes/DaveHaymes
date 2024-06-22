@@ -114,7 +114,7 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 ---
 
 ## 🏅 Certifications & Licenses
- - [Over 25 Certifications and Licenses](https://www.linkedin.com/in/david-haymes/details/certifications/)
+ - [Over 30 Certifications and Licenses](https://www.linkedin.com/in/david-haymes/details/certifications/)
 
 ---
 
