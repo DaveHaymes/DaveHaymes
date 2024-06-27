@@ -1,4 +1,3 @@
-
 ## 👋 Hello there!
 
 I'm David Haymes, a passionate and experienced Full Stack Engineer with over a decade of expertise in creating and maintaining high-performance web applications. Whether you're here to explore my projects, collaborate, or just learn more about my work, welcome to my GitHub profile!
@@ -78,6 +77,7 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 ## 🌟 Experience Highlights
 
 ### Senior Full Stack Engineer @ Henry Schein (2013 - Present)
+
 - Led the development of over 50 websites and applications, significantly increasing online traffic and user retention.
 - Enhanced user engagement through significant UX improvements, collaborating closely with design and UX teams.
 - Implemented advanced security measures and optimized codebase to protect against cyber threats and improve performance.
@@ -86,6 +86,7 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 - Coordinated cross-functional teams to deliver projects on time and within budget, ensuring alignment with business goals.
 
 ### Senior Full Stack Engineer/Project Manager @ eSource LLC (2008 - Present)
+
 - Managed multiple high-stakes projects for Fortune 500 companies and the US Government, ensuring successful delivery and client satisfaction.
 - Utilized AWS to enhance client infrastructures, leading to improved reliability and performance.
 - Maintained high coding standards and led UI feature releases, ensuring a seamless user experience.
@@ -94,6 +95,7 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 - Provided technical leadership and project management, ensuring projects were completed on time and met client requirements.
 
 ### Freelance Full Stack Engineer (2007 - Present)
+
 - Developed custom web scrapers and REST APIs, automating data collection and enhancing client data analysis capabilities.
 - Engineered Node.js applications to improve client operations, resulting in increased efficiency and reduced operational costs.
 - Conducted workshops and authored detailed documentation for clients, enhancing their technical proficiency and project engagement.
@@ -101,12 +103,12 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 - Led the development of e-commerce platforms, integrating payment gateways and ensuring secure transactions.
 - Provided ongoing support and maintenance for client projects, ensuring long-term success and client satisfaction.
 
-
 ---
 
 ## 🎓 Education
 
 **Weber State University**
+
 - Participated in multiple programming competitions.
 - Team Hack-a-thon runner-up.
 - Bug bounty contributor.
@@ -114,7 +116,8 @@ Please note that the majority of my projects are hosted on CodeCommit and GitLab
 ---
 
 ## 🏅 Certifications & Licenses
- - [Over 30 Certifications and Licenses](https://www.linkedin.com/in/david-haymes/details/certifications/)
+
+- [Over 80 Certifications and Licenses](https://www.linkedin.com/in/david-haymes/details/certifications/)
 
 ---
 
