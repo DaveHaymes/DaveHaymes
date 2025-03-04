@@ -76,6 +76,6 @@ I have a proven track record of managing and mentoring teams, fostering an AGILE
 
 ## 📫 How to Reach Me
 
-- **Email:** [davidhaymes@proton.me](mailto:davidhaymes@proton.me)
+- **Email:** [david.haymes@outlook.com](mailto:david.haymes@outlook.com)
 - **LinkedIn:** [linkedin.com/in/david-haymes](https://www.linkedin.com/in/david-haymes/)
 - **GitHub:** [github.com/DaveHaymes](https://github.com/DaveHaymes)
